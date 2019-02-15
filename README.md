@@ -14,4 +14,5 @@ To Test in Postman:
 	"amount" : 76.9,
 	"currency" : "EUR"
   }
+  
 3.Ready... you should get response back USD conversion 
